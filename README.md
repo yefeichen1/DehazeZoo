@@ -12,11 +12,11 @@
 * PSNR (Peak Signal-to-Noise Ratio) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4550695) [[matlab code]](https://www.mathworks.com/help/images/ref/psnr.html) [[python code]](https://github.com/aizvorski/video-quality)
 * SSIM (Structural Similarity) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1284395) [[matlab code]](http://www.cns.nyu.edu/~lcv/ssim/ssim_index.m) [[python code]](https://github.com/aizvorski/video-quality/blob/master/ssim.py)
 
-## 3 Single Image Deraining
+## 3 Single Image Dehazing
 ### 3.1 Datasets
 ------------
 #### 3.1.1 Synthetic Datasets
-* RESIDE [[paper](https://arxiv.org/pdf/1712.04143.pdf)] [[dataset](https://sites.google.com/view/reside-dehaze-datasets)]
+* REalistic Single Image DEhazing(RESIDE) [[paper](https://arxiv.org/pdf/1712.04143.pdf)] [[dataset](https://sites.google.com/view/reside-dehaze-datasets)]
 
 #### 3.1.2 Real-world Datasets
 * Waiting for the update, coming soon...
@@ -24,10 +24,10 @@
 ### 3.2 Papers
 --------------
 ### 2020
-* Shao et al, Domain Adaptation for Image Dehazing. (CVPR 2020) [[paper]][[code]][[web](https://sites.google.com/site/renwenqi888)]
+* Shao et al, Domain Adaptation for Image Dehazing. (CVPR 2020) [paper][code][[web](https://sites.google.com/site/renwenqi888)]
 
 ## 4 Video Based Dehazing
 * Waiting for the update, coming soon...
 
 ## 5 Contact
-* If you have any question, please feel free to concat Xiang Chen (Email: cx@cvgpu.com).
+* If you have any question, please feel free to contact Xiang Chen (Email: cx@cvgpu.com).
