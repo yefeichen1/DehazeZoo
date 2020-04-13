@@ -15,11 +15,10 @@
 ## 3 Single Image Dehazing
 ### 3.1 Datasets
 ------------
-#### 3.1.1 Synthetic Datasets
-* REalistic Single Image DEhazing (RESIDE) [[paper](https://arxiv.org/pdf/1712.04143.pdf)] [[dataset](https://sites.google.com/view/reside-dehaze-datasets)]
-
-#### 3.1.2 Real-world Datasets
-* Waiting for the update, coming soon...
+* RESIDE [[paper](https://arxiv.org/pdf/1712.04143.pdf)][[dataset](https://sites.google.com/view/reside-dehaze-datasets)]
+* D-HAZY [paper][[dataset](https://www.researchgate.net/publication/307516141_D-HAZY_A_dataset_to_evaluate_quantitatively_dehazing_algorithms)]
+* Middlebury [[paper](http://www.cs.middlebury.edu/~schar/papers/datasets-gcpr2014.pdf)][[dataset](http://vision.middlebury.edu/stereo/data/scenes2014/)]
+* NYU Depth Dataset V2 [[paper](https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf)][[dataset](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)]
 
 ### 3.2 Papers
 --------------
@@ -40,17 +39,27 @@
 * Peter et al, Feature Forwarding for Efficient Single Image Dehazing. [[paper](https://arxiv.org/abs/1904.09059)][code][web]
 * Shu et al, Variational Regularized Transmission Refinement for Image Dehazing. [[paper](https://arxiv.org/abs/1902.07069)][code][web]
 * Liu et al, End-to-End Single Image Fog Removal using Enhanced Cycle Consistent Adversarial Networks. [[paper](https://arxiv.org/abs/1902.01374)][code][web]
+* Chen et al, Gated Context Aggregation Network for Image Dehazing and Deraining. (WACV) [[paper](https://arxiv.org/abs/1811.08747)][[code](https://github.com/cddlyf/GCANet)][web]
 
 ### 2018
 * Ren et al, Gated Fusion Network for Single Image Dehazing. (CVPR) [[paper](https://arxiv.org/abs/1804.00213)][[code](https://github.com/rwenqi/GFN-dehazing)][[web](https://sites.google.com/site/renwenqi888/research/dehazing/gfn)]
 * Zhang et al, FEED-Net: Fully End-To-End Dehazing. (ICME) [paper][code][web]
 * Zhang et al, Densely Connected Pyramid Dehazing Network. (CVPR) [[paper](https://arxiv.org/abs/1803.08396)][[code](https://github.com/hezhangsprinter/DCPDN)][web]
+* Yang et al, Towards Perceptual Image Dehazing by Physics-based Disentanglement and Adversarial Training. (AAAI) [paper][code][web]
+* Deniz et al, Cycle-Dehaze: Enhanced CycleGAN for Single Image Dehazing. (CVPRW) [[paper](https://arxiv.org/abs/1805.05308v1)][code][web]
+
+### 2017
+* Ren et al, An All-in-One Network for Dehazing and Beyond. (ICCV) [[paper](https://arxiv.org/pdf/1707.06543.pdf)][[code](https://github.com/MayankSingal/PyTorch-Image-Dehazing)][[web](https://sites.google.com/site/boyilics/website-builder/project-page)]
 
 ### 2016
-* Ren et al, Single Image Dehazing via Multi-Scale Convolutional Neural Networks. (ECCV) [[paper](https://drive.google.com/open?id=0B7PPbXPJRQp3TUJ0VjFaU1pIa28)][[code](https://sites.google.com/site/renwenqi888/research/dehazing/mscnndehazing/MSCNN_dehazing.zip?attredirects=0&d=1)][[web](https://sites.google.com/site/renwenqi888/research/dehazing/mscnndehazing)]
+* Zhu et al, Single Image Dehazing via Multi-Scale Convolutional Neural Networks. (ECCV) [[paper](https://drive.google.com/open?id=0B7PPbXPJRQp3TUJ0VjFaU1pIa28)][[code](https://sites.google.com/site/renwenqi888/research/dehazing/mscnndehazing/MSCNN_dehazing.zip?attredirects=0&d=1)][[web](https://sites.google.com/site/renwenqi888/research/dehazing/mscnndehazing)]
+* Cai et al, DehazeNet: An end-to-end system for single image haze removal. (TIP) [[paper](http://caibolun.github.io/papers/DehazeNet.pdf)][[code](https://github.com/caibolun/DehazeNet)][[web](http://caibolun.github.io/DehazeNet/)]
+
+### 2015
+* Ren et al, A fast single image haze removal algorithm using color attenuation prior. (TIP) [[paper](https://ieeexplore.ieee.org/document/7128396)]
 
 ### 2009
-* He et al, Single Image Haze Removal Using Dark Channel Prior. (CVPR) [paper][code][web]
+* He et al, Single Image Haze Removal Using Dark Channel Prior. (CVPR) [[paper](http://www.jiansun.org/papers/Dehaze_CVPR2009.pdf)][code][web]
 
 ## 4 Video Based Dehazing
 
