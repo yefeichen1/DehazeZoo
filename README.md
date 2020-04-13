@@ -11,6 +11,9 @@
 ## 2 Image Quality Metrics
 * PSNR (Peak Signal-to-Noise Ratio) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4550695) [[matlab code]](https://www.mathworks.com/help/images/ref/psnr.html) [[python code]](https://github.com/aizvorski/video-quality)
 * SSIM (Structural Similarity) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1284395) [[matlab code]](http://www.cns.nyu.edu/~lcv/ssim/ssim_index.m) [[python code]](https://github.com/aizvorski/video-quality/blob/master/ssim.py)
+* VIF (Visual Quality) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1576816) [[matlab code]](http://sse.tongji.edu.cn/linzhang/IQA/Evalution_VIF/eva-VIF.htm)
+* FSIM (Feature Similarity) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5705575) [[matlab code]](http://sse.tongji.edu.cn/linzhang/IQA/FSIM/FSIM.htm)
+* NIQE (Naturalness Image Quality Evaluator) [[paper]](http://live.ece.utexas.edu/research/Quality/niqe_spl.pdf)[[matlab code]](http://live.ece.utexas.edu/research/Quality/index_algorithms.htm)[[python code]](https://github.com/aizvorski/video-quality/blob/master/niqe.py)
 
 ## 3 Single Image Dehazing
 ### 3.1 Datasets
@@ -56,7 +59,7 @@
 * Cai et al, DehazeNet: An end-to-end system for single image haze removal. (TIP) [[paper](http://caibolun.github.io/papers/DehazeNet.pdf)][[code](https://github.com/caibolun/DehazeNet)][[web](http://caibolun.github.io/DehazeNet/)]
 
 ### 2015
-* Ren et al, A fast single image haze removal algorithm using color attenuation prior. (TIP) [[paper](https://ieeexplore.ieee.org/document/7128396)]
+* Ren et al, A fast single image haze removal algorithm using color attenuation prior. (TIP) [[paper](https://ieeexplore.ieee.org/document/7128396)][code][web]
 
 ### 2009
 * He et al, Single Image Haze Removal Using Dark Channel Prior. (CVPR) [[paper](http://www.jiansun.org/papers/Dehaze_CVPR2009.pdf)][code][web]
@@ -66,5 +69,11 @@
 ### 2019
 * Ren et al, Deep Video Dehazing with Semantic Segmentation. (TIP) [[paper](https://ieeexplore.ieee.org/document/8492451)][code][web]
 
-## 5 Contact
+## 5 Note
+* The above content is constantly updated, welcome continuous attention!
+
+## 6 Acknowledgement
+* Thanks for the sharing of codes of image quality metrics by [Wang, Hong](https://github.com/hongwang01/Video-and-Single-Image-Deraining).
+
+## 7 Contact
 * If you have any question, please feel free to contact Xiang Chen (Email: cx@cvgpu.com).
