@@ -2,7 +2,7 @@
 [Xiang Chen](https://github.com/cxtalk), Yufeng Li, Yufeng Huang
 
 ## 1 Description
-   * DehazeZoo: A Survey on haze removal from Video and Single Image. Papers, codes and datasets are maintained.
+   * DehazeZoo: A survey on haze removal from video and single image. Papers, codes and datasets are maintained.
 
    * Thanks for the sharing of [DerainZoo](https://github.com/nnUyi/DerainZoo) by [Youzhao Yang](https://github.com/nnuyi).
    
@@ -74,6 +74,7 @@
 
 ## 6 Acknowledgement
 * Thanks for the sharing of codes of image quality metrics by [Wang, Hong](https://github.com/hongwang01/Video-and-Single-Image-Deraining).
+* Thanks again for the sharing of [DerainZoo](https://github.com/nnUyi/DerainZoo) by [Youzhao Yang](https://github.com/nnuyi).
 
 ## 7 Contact
 * If you have any question, please feel free to contact Xiang Chen (Email: cx@cvgpu.com).
